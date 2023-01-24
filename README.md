@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dmtana
 - 👀 I’m interested in java, web
-- 🌱 I’m currently learning spring technoligies 
+- 🌱 I’m currently learning Spring technoligies 
 - 📫 How to reach me [tg](https://t.me/dmtana)
 
 <!---
